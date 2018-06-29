@@ -1,3 +1,7 @@
+# Python Number Guessing Game
+# Developed by Max Pertgen
+# v1.0 6/9/18
+
 import random
 
 guessesTaken = 0
